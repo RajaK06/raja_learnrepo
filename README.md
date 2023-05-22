@@ -1,5 +1,5 @@
 # raja_learnrepo
 
-#Git Basics
+Git Basics
 
-#Print using pYthon
+Print using python
